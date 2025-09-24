@@ -27,7 +27,7 @@ It provides actionable insights into sales performance, profitability, customer 
 ---
 
 ## 📸 Dashboard Preview  
-![Uploading Dashboard.jpg…]()
+![Dashboard](https://github.com/user-attachments/assets/cd485d80-5410-4e0e-bb4d-f06d05d21415)
 
 
 ---
